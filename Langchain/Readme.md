@@ -56,8 +56,8 @@ chainlit run langchain_chainlit.py -w
 | Field           | Type    | Description                   |
 |-----------------|---------|-------------------------------|
 | product_name    | string  | The product's name            |
-| product_details | string  | Description of the product    |
-| product_price   | integer | Tentative price in USD        |
+| details         | string  | Description of the product    |
+| price           | integer | Tentative price in USD        |
 
 
 ## 🖥️ UI Previews
